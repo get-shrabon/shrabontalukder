@@ -1,8 +1,6 @@
-
-![Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/330980763_852895522463900_1191678672965606277_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFkXFqtaqbsCXXtaPo-KuEuBkzmgsGGoG0GTOaCwYagbUtIjex1r2UJHunaMsO6iYBAqhJCoxMZ7IJKn__Zg1LY&_nc_ohc=OnRTnKGPMP4AX8tUsZk&_nc_ht=scontent.fdac22-1.fna&oh=00_AfCEgFQRM0I4t8fIGiavkFnIIpUIuCEcrQEyjAMGfIPqvQ&oe=647972C6)
 ### Hi there 👋, Shrabon Talukder
 #### Web Developer
-
+![Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/350015986_266280362563084_8250631306508967777_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ab6a21&_nc_eui2=AeEHoj0mo5xEyKnDYwC4oWINwo1Bl7qZHpnCjUGXupkemRpf2b8tVHbECp1E3sbr8EK-YXl_AUDxENyoocK23GmJ&_nc_ohc=twJUizk8Jn8AX_0r3e3&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBl1oBDUPnBs-qqWMt_Ra1bpufv72LPk84kNYYgeVDMPQ&oe=647A586A)
 
 Hello Everyone, I have started learning website development. My dream is to become a good developer and do client's work efficiently. That's why I am working day and night to develop myself. Everyone will pray and bless for me.
 
